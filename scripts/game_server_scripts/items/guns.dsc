@@ -1409,7 +1409,7 @@ gun_burst_assault_rifle:
     #sorta as a way to offset the timing, specifically for the burst
     shots_between_wait: 3
     pellets: 1
-    base_bloom: 1.3
+    base_bloom: 1.2
     bloom_multiplier: 1
     headshot_multiplier: 1.5
     custom_recoil_fx: false
@@ -1620,7 +1620,7 @@ gun_bolt_action_sniper_rifle:
     pellets: 1
     base_bloom: 2.5
     bloom_multiplier: 1.2
-    headshot_multiplier: 2.5
+    headshot_multiplier: 2.0
     #if there's a slightly different shoot effect alongside the base ones
     custom_recoil_fx: false
     uuid: <util.random_uuid>
